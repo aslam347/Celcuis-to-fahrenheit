@@ -1,0 +1,65 @@
+#converter{
+
+text-decoration: underline;
+color:darkblue;
+text-align: center;
+padding-left: 50%;
+
+}
+
+
+#inputbox{
+
+text-align: center;
+padding-bottom: 50px;
+padding-left: 50%;
+margin-top: auto;
+}
+
+#buttoninput{
+    padding-bottom: 70px;
+    text-align: center;
+    padding-left: 80%;
+    margin-bottom: 60%;
+}
+
+
+#background{
+
+background-color: aqua;
+
+}
+
+#boxout{
+
+border: 6px solid black;
+height: 300px;
+width: 200px;
+background-color: blanchedalmond;
+margin-bottom: 35px;
+border-radius: 50px;
+padding-right: 20%;
+margin-left: 29%;
+margin-bottom: 50%;
+margin:auto;
+top:10px;
+bottom: 300px;
+}
+
+#result{
+
+    color:black;
+    margin-top:20px;
+    font-size:32px;
+    justify-content: center;
+    margin-bottom: 30%;
+    text-align: center;
+    text-decoration:underline;
+}
+
+#resultborder{
+
+
+    border: solid black;
+    justify-content:left;
+}
